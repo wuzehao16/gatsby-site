@@ -6,7 +6,10 @@
   "dependencies": {
     "gatsby": "^1.9.119",
     "gatsby-link": "^1.6.28",
-    "gatsby-plugin-react-helmet": "^1.0.8"
+    "gatsby-plugin-react-helmet": "^1.0.8",
+    "gatsby-plugin-typography": "^1.7.10",
+    "material-ui": "^1.0.0-beta.21",
+    "material-ui-icons": "^1.0.0-beta.17"
   },
   "keywords": [
     "gatsby"
